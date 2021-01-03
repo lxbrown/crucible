@@ -1,4 +1,4 @@
-version: '3'
+version: '2'
 #set volumes so these changes don't get saved to mount points
 volumes:
   rails_tmp:
